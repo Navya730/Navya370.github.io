@@ -32,7 +32,7 @@ var app = new Vue({
         } ,
 
     success:function(){
-        location.replace("C:/Users/shivs/pro/nodejs/vuejs/la2/review.html")
+        location.replace("review.html")
     }
 
        
